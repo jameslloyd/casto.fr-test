@@ -1,0 +1,6 @@
+applications:
+- name: castofr
+  framework:
+    type: php
+  instances: 1
+  memory: 16
