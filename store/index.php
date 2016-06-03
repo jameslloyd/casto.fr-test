@@ -8,7 +8,7 @@
 				<meta name="google-site-verification" content="OGDv3v0xaSb7L8p1A-Nd7nKlZvV1BKkbIEUO76O124U" />
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-        <meta name="p:domain_verify" content="48479c239a853c5ab1fb16059dc4492d"/> 
+        <meta name="p:domain_verify" content="48479c239a853c5ab1fb16059dc4492d"/>
 
         <link rel="stylesheet" type="text/css" href="styles/main.css" />
         <link rel="stylesheet" type="text/css" href="styles/cc_main.css" />
@@ -34,7 +34,7 @@
       </style>
     <![endif]-->
 
-        <script type="text/javascript">var contextPath = "/store";</script> 
+        <script type="text/javascript">var contextPath = "/store";</script>
         <script type="text/javascript" src="js/jquery.js"></script>
         <!--<script type="text/javascript" src="/store/js/jquery.easing.js"></script>-->
 		<script type="text/javascript" src="js/jquery.mousewheel.js"></script>
@@ -61,7 +61,7 @@
             var DISPLAY_DURATION = '5';
             var MAP_ENABLED = 'false' == 'true';
             var GOOGLE_API_ENABLED = 'true' == 'true';
-                
+
         </script>
     <script type="text/javascript" src="https://www.google.com/jsapi?key=AIzaSyCwPiJIwKQvf9VyxbuKkXxh0UzFVH_hCog"></script>
     </head>
@@ -143,14 +143,14 @@
      <script type="text/javascript">
       var sendOmnitureIfPageLoad = false;
     </script>
-        
+
 <div id="monEspaceClient">
     <div class="userShadow">
-      <div class="m18">    
-        <div class="gfLabel"><b>Mon compte</b></div>    
-         <div class="grayFrame">    
-          <div class="container">    
-            <ul>    
+      <div class="m18">
+        <div class="gfLabel"><b>Mon compte</b></div>
+         <div class="grayFrame">
+          <div class="container">
+            <ul>
               <li><a href="http://www.castorama.fr/store/user/myProfile.jsp"/>Mon profil</a></li>
               <li><a href="http://www.castorama.fr/store/user/myNewsletters1.jsp">Mes newsletters</a></li>
               <li><a href="http://www.castorama.fr/store/user/myAddressBook.jsp">Mon carnet d'adresse</a></li>
@@ -160,10 +160,10 @@
           </div>
         </div>
         <div class="gfLabel"><b>Mes achats</b></div>
-        <div class="grayFrame">    
-          <div class="container">    
+        <div class="grayFrame">
+          <div class="container">
             <ul>
-              <li><a href="http://www.castorama.fr/store/user/ordersHistory.jsp">Consulter mes commandes web</a></li>    
+              <li><a href="http://www.castorama.fr/store/user/ordersHistory.jsp">Consulter mes commandes web</a></li>
             </ul>
           </div>
         </div>
@@ -178,13 +178,13 @@
             </ul>
           </div>
         </div-->
-        
+
         <div class="gfLabel"><b>Ma Carte Castorama</b></div>
           <div class="grayFrame">
             <div class="container">
               <ul>
                 <li><a href="http://www.castorama.fr/store/user/atoutAdvanteges.jsp">Les avantages de la Carte Castorama</a></li>
-            
+
               <li><a href="http://www.castorama.fr/store/pages/choixcarte.html" >Espace fid&eacute;lit&eacute;</a></li>
                  <li><a href="http://www.castorama.fr/store/user/storeOrders.jsp">Mon Mémo Casto</a></li>
                 <li><a href="http://www.castorama.fr/store/user/atoutAdvanteges.jsp?page=adherer">Adh&eacute;rez &agrave; la carte</a></li>
@@ -198,33 +198,33 @@
             <div class="container">
               <ul>
                 <li><a href="http://www.castorama.fr/store/user/giftCard.jsp">Découvrir la carte cadeau</a></li>
-              </ul>    
+              </ul>
               <div class="gfImgLabel_CC"></div>
-            </div>    
-          </div>    
+            </div>
+          </div>
           <div class="gfLabel"><b>Mon assistance</b></div>
           <div class="grayFrame">
             <div class="container">
             <ul>
-              <li><a href="http://www.castorama.fr/store/contactUs/faq.jsp?owner=faq1">Contacter le service client</a></li>    
-              <li><a href="http://www.castorama.fr/store/contactUs/faq.jsp?owner=faq2">Questions fréquentes</a></li>    
+              <li><a href="http://www.castorama.fr/store/contactUs/faq.jsp?owner=faq1">Contacter le service client</a></li>
+              <li><a href="http://www.castorama.fr/store/contactUs/faq.jsp?owner=faq2">Questions fréquentes</a></li>
             </ul>
-            
+
             <div class="gfImgLabel_CS"></div>
-            </div>    
-        </div>    
-      </div>    
-    </div>    
-  </div>    
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
   <div id="votreMagasin">
 	<div class="userShadow">
 		<div class="m18">
 		<div class="gfLabel"><b>VOTRE MAGASIN : Castorama.fr</b>
-            
-		</div>    
-         <div class="grayFrame">    
+
+		</div>
+         <div class="grayFrame">
           <div class="container">
-			<ul>    
+			<ul>
               <li><a href="index.html#" target="">Infos, horaires et coordonnées</a></li>
               <li><a href="http://www.castorama.fr/store/catalog/catalogs.jsp">Les offres du moment</a></li>
 			  <img src="../images/delimiter.png" id="logo" alt="Castorama.fr" class="delimiter" />
@@ -232,17 +232,17 @@
             </ul>
           </div>
         </div>
-	</div>	
+	</div>
   </div>
   </div>
   <div id="userLocatedPopup" aria-haspopup="true">
 	  <div class="userShadow">
 			<div class="m18">
-			
+
 			<div class="gfLabel"><b>
                 Votre magasin</b>
-				</div>    
-			 <div class="grayFrame">    
+				</div>
+			 <div class="grayFrame">
 			  <div class="container">
               <div class="managableLabel"><span>Pour bénéficier des meilleurs offres près de chez vous et connaitre les stocks des produits qui vous intéressent, choisissez votre magasin de préférence :</span></div>
                   </div>
@@ -284,7 +284,7 @@
 					</div>
 				</div>
 			</div>
-		</div>	
+		</div>
 	  </div>
   </div>
   <div id="userLocatedPopupNoMap" aria-haspopup="true">
@@ -292,8 +292,8 @@
 			<div class="m18">
 			<div class="gfLabel"><b>
             Votre magasin</b>
-				</div>    
-			 <div class="grayFrame">    
+				</div>
+			 <div class="grayFrame">
 			  <div class="container">
               <div class="managableLabel"><span>Pour bénéficier des meilleurs offres près de chez vous et connaitre les stocks des produits qui vous intéressent, choisissez votre magasin de préférence :</span></div>
                   </div>
@@ -330,7 +330,7 @@
 					</div>
 				</div>
 			</div>
-		</div>	
+		</div>
 	  </div>
   </div>
   <div id="userNotLocatedPopup">
@@ -341,7 +341,7 @@
     </div>
     <div class="leftCol">
 		<div class="logo">
-			<img src="../images/logo.png"/>		
+			<img src="../images/logo.png"/>
 		</div>
 		<div class="infoContainer">
 			<div class="header">
@@ -388,7 +388,7 @@
     </div>
     <div class="leftCol">
 		<div class="logo">
-			<img src="../images/logo.png"/>		
+			<img src="../images/logo.png"/>
 		</div>
 		<div class="infoContainer">
 			<div class="header">
@@ -451,7 +451,7 @@
         </div>
         <div class="userSpaceBlock" id="basketLabel">
           <div class="usbTop">
-          
+
             <a href="http://www.castorama.fr/store/checkout/cart.jsp;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?_DARGS=/store/castCommon/header.jsp_AF&_dynSessConf=-3742163184017234270&/com/castorama/CastShoppingCartFormHandler.continueURL=/store/&_D%3A/com/castorama/CastShoppingCartFormHandler.continueURL=+"><img src="http://www.castorama.fr/store/images/icoShoppingCart.png" width="16" height="16" alt="Mon panier"/>
               <big>Votre Panier</big>
               </a><span class="articles"><a href="http://www.castorama.fr/store/checkout/cart.jsp;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?_DARGS=/store/castCommon/header.jsp_AF&_dynSessConf=-3742163184017234270&/com/castorama/CastShoppingCartFormHandler.continueURL=/store/&_D%3A/com/castorama/CastShoppingCartFormHandler.continueURL=+">0&nbsp;article(s)</a></span>
@@ -474,14 +474,14 @@
       <ul class="mainMenuUL" id="mainMenuUL">
         <li class="menu_point_1 mainMenuPoint">
                   <a href="index.html#">
-                                <img class="menuBgImg" src="http://www.castorama.fr/store/images/blank.gif" alt="Intérieur et décoration" title="Intérieur et décoration" />                                
+                                <img class="menuBgImg" src="http://www.castorama.fr/store/images/blank.gif" alt="Intérieur et décoration" title="Intérieur et décoration" />
                       </a>
-                      <div class="upperMenuPopup">	
-						<div class="menuContainer">	
-						
+                      <div class="upperMenuPopup">
+						<div class="menuContainer">
+
 						    <div class="megaMenuBanner" style="width: 490px; height: 216px;">
 								  <div id="layer1" class="layer"><a href="http://www.castorama.fr/store/pages/201604_guide_cuisines.html#promo=Layer_deco_guide_cuisine_201602323" title="Découvrez le nouveau guide cuisine"><img src="http://www.castorama.fr/homepage/layers/20160503_homepage_intDeco.jpg" class="layer_fondOpe"/></a></div></div>
-								
+
 								<ul>
 								<li>
 												<a href="http://www.castorama.fr/store/Salle-de-bains-et-WC-cat_id_3322.htm?navAction=jump&amp;wrap=true">Salle de bains et WC</a></li>
@@ -516,14 +516,14 @@
 		  		</li>
               <li class="menu_point_2 mainMenuPoint">
                   <a href="index.html#">
-                                <img class="menuBgImg" src="http://www.castorama.fr/store/images/blank.gif" alt="Atelier et matériaux" title="Atelier et matériaux" />                                
+                                <img class="menuBgImg" src="http://www.castorama.fr/store/images/blank.gif" alt="Atelier et matériaux" title="Atelier et matériaux" />
                       </a>
-                      <div class="upperMenuPopup">	
-						<div class="menuContainer">	
-						
+                      <div class="upperMenuPopup">
+						<div class="menuContainer">
+
 						    <div class="megaMenuBanner" style="width: 240px; height: 216px;">
 								  <div id="layer2" class="layer"><a href="http://www.castorama.fr/store/pages/201606_guide_domotique.html#layer_OPECO_guide_jardin_abris_20160330" title="Découvrir"><img src="http://www.castorama.fr/homepage/layers/20160525_homepage_atmat.jpg" class="layer_fondOpe"/></a></div></div>
-								
+
 								<ul>
 								<li>
 												<a href="http://www.castorama.fr/store/Chauffage-climatisation-et-ventilation-cat_id_307.htm?navAction=jump&amp;wrap=true">Chauffage, climatisation et ventilation</a></li>
@@ -567,14 +567,14 @@
 		  		</li>
               <li class="menu_point_3 mainMenuPoint">
                   <a href="index.html#">
-                                <img class="menuBgImg" src="http://www.castorama.fr/store/images/blank.gif" alt="Jardin et extérieur" title="Jardin et extérieur" />                                
+                                <img class="menuBgImg" src="http://www.castorama.fr/store/images/blank.gif" alt="Jardin et extérieur" title="Jardin et extérieur" />
                       </a>
-                      <div class="upperMenuPopup">	
-						<div class="menuContainer">	
-						
+                      <div class="upperMenuPopup">
+						<div class="menuContainer">
+
 						    <div class="megaMenuBanner" style="width: 240px; height: 216px;">
 								  <div id="layer2" class="layer"><a href="http://www.castorama.fr/store/pages/201603_guide_mobilier.html#layer_OPECO_guide_jardin_abris_20160525" title="Découvrir"><img src="http://www.castorama.fr/homepage/layers/20160525_homepage_jardin.jpg" class="layer_fondOpe"/></a></div></div>
-								
+
 								<ul>
 								<li>
 												<a href="http://www.castorama.fr/store/Abri-serre-carport-garage-rangement-cat_id_2.htm?navAction=jump&amp;wrap=true">Abri, serre, carport, garage, rangement</a></li>
@@ -636,16 +636,18 @@
         <form name="search" action="http://www.castorama.fr/store/rechercher" method="get" id="search" onsubmit="prepareURL();return false;">
     <div class="block1">
         <div class="search-form-wrapper">
+          <?php $ip = explode(".", $_SERVER['SERVER_ADDR']); ?>
+
             <script type="text/javascript">
                 $(document).ready(function(){
                     var searchInput = $("#search-question");
                     if($(searchInput).val() == ''){
-                        $(searchInput).val('Rechercher un produit, une marque, un conseil, un magasin ...');
+                        $(searchInput).val('Im currently running on : <?php echo $ip[3]; ?>');
                     }
                     $(searchInput).removeAttr('disabled');
                     $("#search-question").focus(function(event) {
                         var searchQuestion = $(this).val();
-                        if (searchQuestion == 'Rechercher un produit, une marque, un conseil, un magasin ...') {
+                        if (searchQuestion == 'Im currently running on : <?php echo $ip[3]; ?>') {
                             $(this).val('');
                         }
                     });
@@ -653,7 +655,7 @@
                     $("#search-question").blur(function(event) {
                         var searchQuestion = $(this).val();
                         if (searchQuestion == null || searchQuestion == '') {
-                            $(this).val("Rechercher un produit, une marque, un conseil, un magasin ...");
+                            $(this).val("Im currently running on : <?php echo $ip[3]; ?>");
                         }
                     });
                     $("#search-question").autocomplete("/store/castCommon/includes/autocomplete.jsp", {
@@ -768,7 +770,7 @@
 $(document).ready(function() {
 
 	var urlCiblee = window.location.href;
-	
+
 	if(urlCiblee.search("catalogs.jsp") != -1)
 	{
 		$("#product_video").html("<a href='http://www.castorama.fr/store/pages/amenagement-mobilier-jardin_HP.html'><img src='../catalogues/201604_hub-jardin.jpg'></a><br /><br /><a href='http://www.castorama.fr/store/pages/18h39.html'><img src='../catalogues/201509_18h39.gif'></a>");
@@ -802,7 +804,7 @@ $(document).ready(function() {
 	{
 		$(".catDetails").html("<img src='../catalogues/201506_reservation-catalogue-renovation-energetique-banner.jpg'>");
 	}
-}); 
+});
 </script>
 
 <!-- A METTRE SUR LA HP
@@ -846,7 +848,7 @@ if(cdao == "121") /* Henin Beaumont */
 			<div class="hpm-slideshow-content">
 				<div class="hpm-slideshow-slides">
 					<ul class="hpm-slideshow-slides">
-						
+
 						<li class="hpm-slideshow-slide" data-index="0" data-cle-menu="slide0">
 							<div class="hpm-slideshow-slide-content">
 								<div class="zc-element">
@@ -867,17 +869,17 @@ if(cdao == "121") /* Henin Beaumont */
 													<div class="zc-ep-lien" id="liensie">
 														<p><a href="http://www.castorama.fr/store/Cuisine-cat_id_826.htm?navAction=jump&amp;wrap=true#promo=HP_OPECO_placeavosprojets_004217pdt_20160525" target="_self" title="Voir ce produit" class="gotoLink"> Profitez-en</a><br/>
 														</p>
-												
+
 													</div>
 												</div>
 											</div>
 										<!--</a>-->
 									</div>
-									
+
 								</div>
 							</div>
 						</li>
-						
+
 						<li class="hpm-slideshow-slide" data-index="1" data-cle-menu="slide1">
 							<div class="hpm-slideshow-slide-content">
 								<div class="zc-element">
@@ -897,17 +899,17 @@ if(cdao == "121") /* Henin Beaumont */
 													<div class="zc-ep-lien" id="liensie">
 														<p><a href="http://www.castorama.fr/store/Cuisine-cat_id_3322.htm?navAction=jump&amp;wrap=true#promo=HP_OPECO_placeavosprojets_608019pdt_20160525" target="_self" title="Voir ce produit" class="gotoLink"> Profitez-en</a><br/>
 														</p>
-												
+
 													</div>
 												</div>
 											</div>
 										<!--</a>-->
 									</div>
-									
+
 								</div>
 							</div>
 						</li>
-						
+
 						<li class="hpm-slideshow-slide" data-index="2" data-cle-menu="slide2">
 							<div class="hpm-slideshow-slide-content">
 								<div class="zc-element">
@@ -915,7 +917,7 @@ if(cdao == "121") /* Henin Beaumont */
 										<!--<a class="productLink" href="/store/Perceuse-sans-fil-18V-15Ah--jouet-SMOBY-BLACK-ET-DECKER-prod18770041.html#promo=OPECO_NOELCADEAUX_1125_Perceuse689874pdt" title="Voir ce produit">-->
 										<!--</a>-->
 									</div>
-									
+
 								</div>
 							</div>
 						</li>
@@ -945,7 +947,7 @@ if(cdao == "121") /* Henin Beaumont */
 			<div class="hpm-slideshow-sticker-fiche-ID "  data-index="4"><a href="/store/pages/idees-d-ete.html#promo=OPECO_Ete1_2915_IdeesEte" target="_self" title="Découvrir toutes nos idées d'été"><img src="/homepage/homepage_20160525_full/img/zone-covers/sticker-fiche-ID/decouvrir-toutes-nos-idees-d-ete_34.png" width="283" height="93" alt="Découvrir toutes nos idées d'été" title="Découvrir toutes nos idées d'été"/></a></div>
 			<div class="hpm-slideshow-sticker-fiche-ID "  data-index="5"><a href="/store/pages/idees-d-ete.html#promo=OPECO_Ete1_2915_IdeesEte" target="_self" title="Découvrir toutes nos idées d'été"><img src="/homepage/homepage_20160525_full/img/zone-covers/sticker-fiche-ID/decouvrir-toutes-nos-idees-d-ete_42.png" width="283" height="93" alt="Découvrir toutes nos idées d'été" title="Découvrir toutes nos idées d'été"/></a></div>
 			<div class="hpm-slideshow-sticker-fiche-ID "  data-index="6"><a href="/store/pages/idees-d-ete.html#promo=OPECO_Ete1_2915_IdeesEte" target="_self" title="Découvrir toutes nos idées d'été"><img src="/homepage/homepage_20160525_full/img/zone-covers/sticker-fiche-ID/decouvrir-toutes-nos-idees-d-ete_44.png" width="283" height="93" alt="Découvrir toutes nos idées d'été" title="Découvrir toutes nos idées d'été"/></a></div>
-			
+
 		</div>
 		<div id="menuOut" class="zc-menu open">
 			<div class="zc-m-elements">
@@ -988,17 +990,17 @@ if(cdao == "121") /* Henin Beaumont */
 		<a href="#" title=""><img src="/homepage/homepage_20160525_full/featured/featured.gif" alt="" title="" /></a>
 	</div>
 	-->
-	
+
 	<div class="wrapper-main">
 		<div class="section promo-blocks">
 			<div class="promo-blocks-inner">
 				<ul class="promo-blocks-wrap grid">
 					<li class="grid-item">
 						<div class="promo-block-image media-item">
-							<a href="http://www.castorama.fr/store/pages/amenagement-mobilier-jardin_HP.html#promo=HP_OPECO_collectionsjardins_promo_20160525" title="Découvrez notre nouvelle collection jardin"><img src="http://www.castorama.fr/homepage/homepage_20160525_full/promo-block/homepage-promo-block-01.jpg" 
-								alt="Nos collections jardin" 
+							<a href="http://www.castorama.fr/store/pages/amenagement-mobilier-jardin_HP.html#promo=HP_OPECO_collectionsjardins_promo_20160525" title="Découvrez notre nouvelle collection jardin"><img src="http://www.castorama.fr/homepage/homepage_20160525_full/promo-block/homepage-promo-block-01.jpg"
+								alt="Nos collections jardin"
 								title="Nos collections jardin" /></a>
-							
+
 						</div>
 							<div class="promo-block-body media-body">
 							<a href="http://www.castorama.fr/store/pages/amenagement-mobilier-jardin_HP.html#promo=HP_OPECO_collectionsjardins_promo_20160525" class="promo-block-link" title="
@@ -1007,14 +1009,14 @@ if(cdao == "121") /* Henin Beaumont */
 							</a>
 						</div>
 					</li>
-					
+
 					<li class="grid-item">
 						<div class="promo-block-image media-item">
-							<a href="http://www.castorama.fr/store/pages/1605_s18_operationrecyclage.html#promo=HP_ESPFNR_recyclage_outillage_20160525" title="Recyclez votre ancien outillage électrique"><img src="http://www.castorama.fr/homepage/homepage_20160525_full/promo-block/homepage-promo-block-02.gif" 
-								alt="Recyclez votre ancien outillage électrique" 
+							<a href="http://www.castorama.fr/store/pages/1605_s18_operationrecyclage.html#promo=HP_ESPFNR_recyclage_outillage_20160525" title="Recyclez votre ancien outillage électrique"><img src="http://www.castorama.fr/homepage/homepage_20160525_full/promo-block/homepage-promo-block-02.gif"
+								alt="Recyclez votre ancien outillage électrique"
 								title="Recyclez votre ancien outillage électrique" /></a>
 
-								
+
 						</div>
 						<div class="promo-block-body media-body">
 							<a href="http://www.castorama.fr/store/pages/1605_s18_operationrecyclage.html#promo=HP_ESPFNR_recyclage_outillage_20160525" class="promo-block-link" title="
@@ -1031,34 +1033,34 @@ if(cdao == "121") /* Henin Beaumont */
 				<ul class="promo-blocks-wrap grid">
 					<li class="grid-item">
 						<div class="promo-block-image media-item">
-							<a href="http://www.18h39.fr/articles/proteger-sa-maison-pendant-les-vacances.html#promo=HP_OPECO_18h39_20160525" title="Protéger sa maison pendant les vacances"><img src="http://www.castorama.fr/homepage/homepage_20160525_full/promo-block/homepage-promo-block-03.jpg" 
-								alt="Protéger sa maison pendant les vacances" 
+							<a href="http://www.18h39.fr/articles/proteger-sa-maison-pendant-les-vacances.html#promo=HP_OPECO_18h39_20160525" title="Protéger sa maison pendant les vacances"><img src="http://www.castorama.fr/homepage/homepage_20160525_full/promo-block/homepage-promo-block-03.jpg"
+								alt="Protéger sa maison pendant les vacances"
 								title="Protéger sa maison pendant les vacances" /></a>
-								
+
 						</div>
 						<div class="promo-block-body media-body">
 							<a href="http://www.18h39.fr/articles/proteger-sa-maison-pendant-les-vacances.html#promo=HP_OPECO_18h39_20160525" class="promo-block-link" title="
 								Protéger sa maison pendant les vacances">
-								Protégez votre maison pendant les vacances  
+								Protégez votre maison pendant les vacances
 							</a>
 						</div>
 					</li>
-					
+
 					<li class="grid-item">
 						<div class="promo-block-image media-item">
-							<a href="http://www.castorama.fr/store/pages/201606_guide_domotique.html##promo=HP_OPECO_guide_domotique_20160525" title="découvrez notre nouveau guide domotique"><img src="http://www.castorama.fr/homepage/homepage_20160525_full/promo-block/homepage-promo-block-04.jpg" 
-								alt="découvrez notre nouveau guide domotique" 
+							<a href="http://www.castorama.fr/store/pages/201606_guide_domotique.html##promo=HP_OPECO_guide_domotique_20160525" title="découvrez notre nouveau guide domotique"><img src="http://www.castorama.fr/homepage/homepage_20160525_full/promo-block/homepage-promo-block-04.jpg"
+								alt="découvrez notre nouveau guide domotique"
 								title="découvrez notre nouveau guide domotique" /></a>
-								
+
 						</div>
 						<div class="promo-block-body media-body">
 							<a href="http://www.castorama.fr/store/pages/201606_guide_domotique.html##promo=HP_OPECO_guide_domotique_20160525" class="promo-block-link" title="
 								découvrez notre nouveau guide domotique">
-								Feuilletez-le !  
+								Feuilletez-le !
 							</a>
 						</div>
 					</li>
-					
+
 				</ul>
 			</div>
 		</div>
@@ -1079,7 +1081,7 @@ if(cdao == "121") /* Henin Beaumont */
 			<li><a href="http://www.castorama.fr/store/Domotique-maison-et-objet-connecte-cat_id_1129.htm#promo=HP_OPECO_nossolutions_domotique_20160525" target="_self" title="Nos solutions domotique"><img src="http://www.castorama.fr/homepage/homepage_20160525_full/img/pictos/domotique.png" width="120" height="120" alt="Nos solutions domotique" title="Nos solutions domotique"/></a></li>
 			<li><a href="http://www.castorama.fr/store/Outillage-cat_id_1584.htm#promo=HP_OPECO_nossolutions_outillage_20160525" target="_self" title="Nos solutions outillage"><img src="http://www.castorama.fr/homepage/homepage_20160525_full/img/pictos/outillage.png" width="120" height="120" alt="Nos solutions outillage" title="Nos solutions outillage"/></a></li>
 		</ul>
-		<div class="zs-back-to-top"><a href="index.html#hpm_zone-covers" target="_self" title="Retour en haut de page"><img src="http://www.castorama.fr/homepage/homepage_20151118_full/img/zone-nos-solutions/haut-de-page.png" width="88" height="34" alt="Haute de page" title="Retour en haut de page"/></a></div> 
+		<div class="zs-back-to-top"><a href="index.html#hpm_zone-covers" target="_self" title="Retour en haut de page"><img src="http://www.castorama.fr/homepage/homepage_20151118_full/img/zone-nos-solutions/haut-de-page.png" width="88" height="34" alt="Haute de page" title="Retour en haut de page"/></a></div>
 	</div>
 	</div>
 </div>
@@ -1092,7 +1094,7 @@ if(cdao == "121") /* Henin Beaumont */
 				<dt><img src="/homepage/commons/imgs/homepageFooter_icon_inspiration.png" alt="Idées et inspirations" /></dt>
 				<dd><a href="#" title="Découvrir nos idées et inspirations pour votre projet">Nos idées et inspirations<br />pour votre projet</a></dd>
 				-->
-				
+
 				<dt><img src="http://www.castorama.fr/homepage/commons/imgs/homepageFooter_icon_18h39.png" alt="18h39.fr : Innovations, modes de vies et tendances pour réveiller la maison" /></dt>
 				<dd>Innovations, modes de vies et tendances<br />pour réveiller la maison<br />
 					<ul class="homepageFooterDottedLink">
@@ -1100,7 +1102,7 @@ if(cdao == "121") /* Henin Beaumont */
 						<!--<li><a href="#" title="Télécharger l’application 18h39 sur votre smartphone">&bull; Télécharger l’application</a></li>-->
 					</ul>
 				</dd>
-				
+
 				<dt><img src="http://www.castorama.fr/homepage/commons/imgs/homepageFooter_icon_catalogues.png" alt="Catalogues et dépliants Castorama" /></dt>
 				<dd><a href="http://www.castorama.fr/store/catalog/catalogs.jsp" title="Retrouver tous les catalogues Castorama et les dépliants promotionnels, consultables en ligne" class="homepageFooterCatalogues">Nos catalogues<br />et promotions</a></dd>
 			</dl>
@@ -1110,12 +1112,12 @@ if(cdao == "121") /* Henin Beaumont */
 			<dl>
 				<dt><img src="http://www.castorama.fr/homepage/commons/imgs/homepageFooter_icon_youtube.png" alt="Les vidéos pour tout apprendre" /></dt>
 				<dd><a href="http://www.youtube.com/user/castoramafrance" target="_blank" title="Découvrir les vidéos Youtube pour tout apprendre">Les vidéos pour tout apprendre</a></dd>
-				
+
 				<!--
 				<dt><img src="/homepage/commons/imgs/homepageFooter_icon_outils.png" alt="Les outils pour vous aider à vous projeter" /></dt>
 				<dd><a href="" title="Découvrir les outils pour vous aider à vous projeter">Les outils pour vous aider<br />à vous projeter</a></dd>
 				-->
-				
+
 				<dt><img src="http://www.castorama.fr/homepage/commons/imgs/homepageFooter_icon_casto3d.png" alt="Avec Casto 3D, réalisez vos plans en 3D :" /></dt>
 				<dd>Réalisez vos plans en 3D :<br />
 					<ul class="homepageFooterDottedLink homepageFooterDottedLinkCasto3d">
@@ -1135,22 +1137,22 @@ if(cdao == "121") /* Henin Beaumont */
 			<dl>
 				<dt><img src="http://www.castorama.fr/homepage/commons/imgs/homepageFooter_icon_facebook.png" alt="Actualités, bons plans, tutos... Toute l’actu Casto sur Facebook" /></dt>
 				<dd><a href="https://www.facebook.com/castorama/" target="_blank" title="Découvrir les actualités, bons plans, tutos... Toute l’actu Casto sur Facebook">Actualités, bons plans, tutos...<br />Toute l’actu Casto</a></dd>
-				
+
 				<dt><img src="http://www.castorama.fr/homepage/commons/imgs/homepageFooter_icon_pinterest.png" alt="Les dernières tendances pour vous inspirer sur Pinterest" /></dt>
 				<dd><a href="https://fr.pinterest.com/castorama/" target="_blank" title="Découvrir les dernières tendances pour vous inspirer sur Pinterest">Les dernières tendances<br />pour vous inspirer</a></dd>
-				
+
 				<dt><img src="http://www.castorama.fr/homepage/commons/imgs/homepageFooter_icon_wikiforhome.png" alt="L’encyclopédie collaborative du bricolage : wikiforhome.org" /></dt>
 				<dd><a href="https://www.wikiforhome.org" target="_blank" title="Découvrir l’encyclopédie collaborative du bricolage : wikiforhome.org">L’encyclopédie collaborative<br />du bricolage</a></dd>
-				
+
 				<dt><img src="http://www.castorama.fr/homepage/commons/imgs/homepageFooter_icon_application.png" alt="L’application smartphone Castorama : tout Castorama dans votre poche" /></dt>
 				<dd><a href="http://www.castorama.fr/smartphone" title="Découvrir l’application Castorama pour smartphone : tout Castorama dans votre poche">L’application : tout Castorama<br />dans votre poche</a></dd>
-				
+
 				<dt><img src="http://www.castorama.fr/homepage/commons/imgs/homepageFooter_icon_covoiturage.png" alt="Partagez vos trajets en covoiturage" /></dt>
 				<dd><a href="http://castorama.covoiturage.fr/" target="_blank" title="Partager les trajets">Partagez vos trajets</a></dd>
 			</dl>
 		</div>
 	</div>
-	
+
 	<div id="homepageLegalNotice">
 		<p>* Quantité limitée : 2300 ensembles. Pour l’ensemble des magasins participant à l’opération.
 		</p>
@@ -1163,7 +1165,7 @@ if(cdao == "121") /* Henin Beaumont */
 <link type="text/css" rel="stylesheet" href="http://www.castorama.fr/homepage/commons/css/homepageFooter.css"/>
 <style type="text/css">
 #hp-module div.zone-covers {height:389px;}
-.promo-blocks .promo-blocks-inner .grid li.grid-item .media-body{width:100%;display:block;background:#ececea;margin-top:0}	
+.promo-blocks .promo-blocks-inner .grid li.grid-item .media-body{width:100%;display:block;background:#ececea;margin-top:0}
 #hp-module div.zone-covers div.hpm-slideshow div.hpm-slideshow-content ul.hpm-slideshow-slides li.hpm-slideshow-slide div.zc-element div.zc-e-prix.bg-fadf21 div.zc-ep-lien {background-color:#ececea}
 .hpm-slideshow-page-control div.hpm-spc-content ul li a img {background-image: url(http://www.castorama.fr/homepage/homepage_20160525_full/img/puces-page-control.png)}
 </style>
@@ -1178,7 +1180,7 @@ if(cdao == "121") /* Henin Beaumont */
 @font-face{font-family: "castobold";src: url("/homepage/commons/fonts/casto-bold-webfont.eot")}
 @font-face{font-family: "castolight";src: url("/homepage/commons/fonts/casto-light-webfont.eot")}
 @font-face{font-family: "manoregular";src: url("/homepage/commons/fonts/mano-webfont.eot")}
-</style>    
+</style>
 <![endif]-->
 
 <script type="text/javascript">
@@ -1195,14 +1197,14 @@ $(document).ready(function() {
 	// Gestion des prix (web-services)
 	callAjaxTG('Casto610088','interpretation_aluTG(obj,\'Casto610088\')');
 	callAjaxTG('Cast947887','interpretation_aluTG(obj,\'Casto947887\')');
-	
+
 
 	$('li.zc-m-element h3').click(function() {
 		$('li.zc-m-element h3').removeClass('activeTab');
 		$(this).addClass('activeTab');
-	});	
+	});
 	$('#menuOut div.zc-m-elements ul.zc-m-elements li.zc-m-element h3').first().addClass('activeTab');
-}); 
+});
 </script></div>
 <div id="subscription">
     <div class="right floatLeft">
@@ -1239,52 +1241,52 @@ $(document).ready(function() {
 </dl><div id="footer">
         <div class="leftCol">
           <ul class="linkList footerLinksLeft lightBg">
-		<li> 
+		<li>
 				<a class="arrowedLink darkBlue_orangeArrow" href="http://www.castorama.fr/store/pages/espace-presse.html">Espace presse</a></li>
-        <li> 
+        <li>
 				<a class="arrowedLink darkBlue_orangeArrow" href="http://www.castorama.fr/store/contactUs/who-we-are.jsp">Qui sommes nous</a></li>
-        <li> 
+        <li>
 				<a class="arrowedLink darkBlue_orangeArrow" target="_blank" href="http://www.18h39.fr">18h39</a></li>
-        <li> 
+        <li>
 				<a class="arrowedLink darkBlue_orangeArrow" href="http://www.castorama.fr/store/user/clientSpaceHome.jsp">Espace client</a></li>
-        <li> 
+        <li>
 				<a class="arrowedLink darkBlue_orangeArrow" href="http://www.castorama.fr/store/catalog/catalogs.jsp">Nos catalogues</a></li>
-        <li> 
+        <li>
 				<a class="arrowedLink darkBlue_orangeArrow" href="http://magasins.castorama.fr">Choisir mon magasin</a></li>
-        <li> 
+        <li>
 				<a class="arrowedLink darkBlue_orangeArrow" href="http://www.castorama.fr/store/contactUs/nos-engagements-home.jsp">Nos engagements</a></li>
-        <li> 
+        <li>
 				<a class="arrowedLink darkBlue_orangeArrow" href="http://www.castorama.fr/store/pages/1506_s24_artisans.html">Espace artisans partenaires</a></li>
-        <li> 
+        <li>
 				<a class="arrowedLink darkBlue_orangeArrow" href="http://www.emploi.castorama.fr">Recrutement</a></li>
-        <li> 
+        <li>
 				<a class="arrowedLink darkBlue_orangeArrow" href="http://www.castorama.fr/store/contactUs/Nos-autres-sites.jsp">Nos autres sites</a></li>
-        <li> 
+        <li>
 				<a class="arrowedLink darkBlue_orangeArrow" target="_blank" href="http://www.quickfds.com/casto/">Fiches de Données de Sécurité</a></li>
-        <li> 
+        <li>
 				<a class="arrowedLink darkBlue_orangeArrow" href="http://www.castorama.fr/store/pages/rappels-produits.html">Rappels produits</a></li>
-        <li> 
+        <li>
 				<a class="arrowedLink darkBlue_orangeArrow" href="http://www.castorama.fr/store/contactUs/faq.jsp?owner=faq2">Questions fréquentes</a></li>
-        <li> 
+        <li>
 				<a class="arrowedLink darkBlue_orangeArrow" href="http://www.castorama.fr/store/contactUs/faq.jsp?owner=faq1">Nous contacter</a></li>
-        <li> 
+        <li>
 				<a class="arrowedLink darkBlue_orangeArrow" href="http://www.castorama.fr/store/contactUs/legal-notice.jsp">CGV et mentions légales / médiation</a></li>
         </ul>
       <h2>Nos services</h2>
        <ul class="cyan nosServ">
-      <li> 
+      <li>
 				<a href="http://www.castorama.fr/store/contactUs/nos-services.jsp">La livraison à domicile</a></li>
-        <li> 
+        <li>
 				<a href="http://www.castorama.fr/store/magasin/retrait-en-magasin.jsp">Le retrait magasin</a></li>
-        <li> 
+        <li>
 				<a href="http://www.castorama.fr/store/contactUs/service-pose.jsp">Le service pose</a></li>
-        <li> 
+        <li>
 				<a href="http://www.castorama.fr/store/contactUs/nos-services.jsp">Le service après-vente</a></li>
-        <li> 
+        <li>
 				<a href="http://www.castorama.fr/store/pages/castostages.html">Les castostages</a></li>
-        <li> 
+        <li>
 				<a target="_blank" href="http://www.lestrocheures.fr/" onclick="s.tl(this,'e','TrocHeures_Others');">Entraide gratuite</a></li>
-        <li> 
+        <li>
 				<a href="http://www.castorama.fr/store/contactUs/nos-services.jsp">Plus de services</a></li>
         </ul>
       </div>
@@ -1301,118 +1303,118 @@ $(document).ready(function() {
     </div></div>
 
             <div class="subCol lightBg">
-	
+
 		<h2 >Intérieur et décoration</h2>
 						<ul class="darkblue">
 								<li>
-											<a href="http://www.castorama.fr/store/rechercher/Salle-de-bains-et-WC;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Salle de bains et WC</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Salle-de-bains-et-WC;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Salle de bains et WC</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Cuisine;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Cuisine</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Cuisine;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Cuisine</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Carrelage-sol,-mur-et-accessoires;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Carrelage sol, mur et accessoires</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Carrelage-sol,-mur-et-accessoires;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Carrelage sol, mur et accessoires</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Luminaire;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Luminaire</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Luminaire;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Luminaire</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Décoration;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Décoration</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Décoration;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Décoration</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Rangement-et-dressing;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Rangement et dressing</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Rangement-et-dressing;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Rangement et dressing</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Porte-intérieure,-escalier-et-cloison-amovible;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Porte intérieure, escalier et cloison amovible</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Porte-intérieure,-escalier-et-cloison-amovible;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Porte intérieure, escalier et cloison amovible</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Peinture,-papier-peint,-enduit-décoratif;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Peinture, papier peint, enduit décoratif</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Peinture,-papier-peint,-enduit-décoratif;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Peinture, papier peint, enduit décoratif</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Lambris,-plaquette-de-parement,-carrelage-mural;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Lambris, plaquette de parement, carrelage mural</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Lambris,-plaquette-de-parement,-carrelage-mural;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Lambris, plaquette de parement, carrelage mural</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Parquet,-stratifié,-sol-vinyle,-moquette;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Parquet, stratifié, sol vinyle, moquette</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Parquet,-stratifié,-sol-vinyle,-moquette;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Parquet, stratifié, sol vinyle, moquette</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Chauffage,-climatisation-et-ventilation;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Chauffage, climatisation et ventilation</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Chauffage,-climatisation-et-ventilation;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Chauffage, climatisation et ventilation</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Mobilier-intérieur-et-extérieur;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Mobilier intérieur et extérieur</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Mobilier-intérieur-et-extérieur;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Mobilier intérieur et extérieur</a></li>
 										</ul></div><div class="subCol lightBg"><ul class="darkblue">
 											<li>
-											<a href="http://www.castorama.fr/store/rechercher/Entretien-de-la-maison,-droguerie;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Entretien de la maison, droguerie</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Entretien-de-la-maison,-droguerie;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Entretien de la maison, droguerie</a></li>
 										</ul>
 						<h2 >Atelier et matériaux</h2>
 						<ul class="darkblue">
 								<li>
-											<a href="http://www.castorama.fr/store/rechercher/Chauffage,-climatisation-et-ventilation;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Chauffage, climatisation et ventilation</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Chauffage,-climatisation-et-ventilation;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Chauffage, climatisation et ventilation</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Plomberie-et-traitement-de-l'eau;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Plomberie et traitement de l&#39;eau</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Plomberie-et-traitement-de-l'eau;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Plomberie et traitement de l&#39;eau</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Outillage;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Outillage</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Outillage;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Outillage</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Etabli-et-Rangement-garage,-cave,-atelier;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Etabli et Rangement garage, cave, atelier</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Etabli-et-Rangement-garage,-cave,-atelier;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Etabli et Rangement garage, cave, atelier</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Installation-électrique;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Installation électrique</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Installation-électrique;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Installation électrique</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Quincaillerie,-visserie;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Quincaillerie, visserie</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Quincaillerie,-visserie;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Quincaillerie, visserie</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Réception-TV,-téléphonie-et-informatique;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Réception TV, téléphonie et informatique</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Réception-TV,-téléphonie-et-informatique;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Réception TV, téléphonie et informatique</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Domotique,-maison-et-objet-connecté;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Domotique, maison et objet connecté</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Domotique,-maison-et-objet-connecté;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Domotique, maison et objet connecté</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Sécurité-de-la-maison,-protection-feu,-gaz-et-inondation;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Sécurité de la maison, protection feu, gaz et inondation</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Sécurité-de-la-maison,-protection-feu,-gaz-et-inondation;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Sécurité de la maison, protection feu, gaz et inondation</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Matériel-et-outillage-de-bâtiment;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Matériel et outillage de bâtiment</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Matériel-et-outillage-de-bâtiment;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Matériel et outillage de bâtiment</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Construction-et-matériaux;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Construction et matériaux</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Construction-et-matériaux;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Construction et matériaux</a></li>
 										</ul></div><div class="subCol lightBg"><ul class="darkblue">
 											<li>
-											<a href="http://www.castorama.fr/store/rechercher/Isolation-et-cloison;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Isolation et cloison</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Isolation-et-cloison;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Isolation et cloison</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Motorisation-de-portail,-garage-et-volet;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Motorisation de portail, garage et volet</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Motorisation-de-portail,-garage-et-volet;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Motorisation de portail, garage et volet</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Porte-d'entrée,-fenêtre,-volet-et-porte-de-garage;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Porte d&#39;entrée, fenêtre, volet et porte de garage</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Porte-d'entrée,-fenêtre,-volet-et-porte-de-garage;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Porte d&#39;entrée, fenêtre, volet et porte de garage</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Porte-intérieure,-escalier-et-cloison-amovible;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Porte intérieure, escalier et cloison amovible</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Porte-intérieure,-escalier-et-cloison-amovible;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Porte intérieure, escalier et cloison amovible</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Panneau-bois,-plinthe,-tasseau,-moulure-et-tablette;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Panneau bois, plinthe, tasseau, moulure et tablette</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Panneau-bois,-plinthe,-tasseau,-moulure-et-tablette;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Panneau bois, plinthe, tasseau, moulure et tablette</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Produit-de-traitement-et-d'entretien;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Produit de traitement et d&#39;entretien</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Produit-de-traitement-et-d'entretien;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Produit de traitement et d&#39;entretien</a></li>
 										</ul>
 						<h2 >Jardin et extérieur</h2>
 						<ul class="darkblue">
 								<li>
-											<a href="http://www.castorama.fr/store/rechercher/Abri,-serre,-carport,-garage,-rangement;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Abri, serre, carport, garage, rangement</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Abri,-serre,-carport,-garage,-rangement;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Abri, serre, carport, garage, rangement</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Mobilier-de-jardin;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Mobilier de jardin</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Mobilier-de-jardin;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Mobilier de jardin</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Balançoire,-maisonnette-et-jeu-d'enfant;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Balançoire, maisonnette et jeu d&#39;enfant</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Balançoire,-maisonnette-et-jeu-d'enfant;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Balançoire, maisonnette et jeu d&#39;enfant</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Barbecue,-plancha-et-cuisine-d'été;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Barbecue, plancha et cuisine d&#39;été</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Barbecue,-plancha-et-cuisine-d'été;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Barbecue, plancha et cuisine d&#39;été</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Parasol,-tonnelle,-store-de-terrasse-et-voile-d'ombrage;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Parasol, tonnelle, store de terrasse et voile d&#39;ombrage</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Parasol,-tonnelle,-store-de-terrasse-et-voile-d'ombrage;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Parasol, tonnelle, store de terrasse et voile d&#39;ombrage</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Piscine,-sauna-et-spa;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Piscine, sauna et spa</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Piscine,-sauna-et-spa;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Piscine, sauna et spa</a></li>
 										</ul></div><div class="subCol lastSubCol lightBg"><ul class="darkblue">
 													<li>
-											<a href="http://www.castorama.fr/store/rechercher/Clôture,-grillage,-brise-vue,-portail-et-portillon;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Clôture, grillage, brise vue, portail et portillon</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Clôture,-grillage,-brise-vue,-portail-et-portillon;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Clôture, grillage, brise vue, portail et portillon</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Tondeuse-et-outil-motorisé;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Tondeuse et outil motorisé</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Tondeuse-et-outil-motorisé;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Tondeuse et outil motorisé</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Outil,-accessoire-et-matériel-de-jardin;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Outil, accessoire et matériel de jardin</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Outil,-accessoire-et-matériel-de-jardin;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Outil, accessoire et matériel de jardin</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Arrosage,-pompe-et-récupérateur-d'eau;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Arrosage, pompe et récupérateur d&#39;eau</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Arrosage,-pompe-et-récupérateur-d'eau;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Arrosage, pompe et récupérateur d&#39;eau</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Pot-de-fleurs,-bac,-jardinière-et-carré-potager;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Pot de fleurs, bac, jardinière et carré potager</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Pot-de-fleurs,-bac,-jardinière-et-carré-potager;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Pot de fleurs, bac, jardinière et carré potager</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Luminaire-extérieur;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Luminaire extérieur</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Luminaire-extérieur;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Luminaire extérieur</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Revêtement-terrasse-et-sol-extérieur;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Revêtement terrasse et sol extérieur</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Revêtement-terrasse-et-sol-extérieur;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Revêtement terrasse et sol extérieur</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Revêtement-de-la-façade;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Revêtement de la façade</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Revêtement-de-la-façade;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Revêtement de la façade</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Peinture-extérieure-et-produits-bois;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Peinture extérieure et produits bois</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Peinture-extérieure-et-produits-bois;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Peinture extérieure et produits bois</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Végétal,-terreau,-traitement,-gazon,-semence-et-anti-nuisible;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Végétal, terreau, traitement, gazon, semence et anti nuisible</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Végétal,-terreau,-traitement,-gazon,-semence-et-anti-nuisible;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Végétal, terreau, traitement, gazon, semence et anti nuisible</a></li>
 										</ul>
 						<h2  class="mb9">Eco-rénovation</h2>
 						<h2 >Bonnes Affaires</h2>
 						<ul class="darkblue">
 								<li>
-											<a href="http://www.castorama.fr/store/rechercher/Trigano;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Trigano</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Trigano;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Trigano</a></li>
 										<li>
-											<a href="http://www.castorama.fr/store/rechercher/Offres-plaques;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Offres plaques</a></li>	
+											<a href="http://www.castorama.fr/store/rechercher/Offres-plaques;jsessionid=Jy6sWT1KaJ0y0+syhVIDLg**.fo4atg2?osearchmode=tagcloud">Offres plaques</a></li>
 										</ul>
 						<a class="arrowedLink darkBlue_whiteArrow" href="http://www.castorama.fr/store/index/azIndex.jsp" title='Produits et marques'>A-Z produits et marques</a>
 		<a class="arrowedLink darkBlue_whiteArrow" href="index.html#">Retour haut de page</a>
@@ -1461,7 +1463,7 @@ More info available at http://www.omniture.com -->
 	s_highlitedProduct=""
 
 	s_productDeliveryTime=""
-  
+
 	s_promoCodeAdded=""
 	s_discountInformation=""
 	s_promoCodeUsed=""
@@ -1474,8 +1476,8 @@ More info available at http://www.omniture.com -->
 	s_stockVisuStatus=""
 	s_searchType=""
 	s_curLoc="web"
-	s_xForwardedFor="false"    
-	
+	s_xForwardedFor="false"
+
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 
 
@@ -1492,25 +1494,25 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
   }
   //-->
   </script>
-  <!-- TAGCOMMANDER START //--> 
-  <SCRIPT language="javascript"> 
+  <!-- TAGCOMMANDER START //-->
+  <SCRIPT language="javascript">
     <!--
-    var tc_vars = new Array(); 
+    var tc_vars = new Array();
     // Tree Structure
-    
-    tc_vars["template_name"] = ""; 
-    tc_vars["page_name"] = "Home Page"; 
-    
-    // User    
-    tc_vars["user_id"] = ""; 
+
+    tc_vars["template_name"] = "";
+    tc_vars["page_name"] = "Home Page";
+
+    // User
+    tc_vars["user_id"] = "";
     tc_vars["user_nl_subscription"] = "";
     tc_vars["user_logged_status"] = "anonymous";
-    
+
     // Search
     tc_vars["search_kw"] = "";
     tc_vars["search_nb_results"] = "";
     tc_vars["search_type"] = "";
-    
+
     // Products
     tc_vars["product_name"] = "";
     tc_vars["product_img_url"] = "";
@@ -1521,10 +1523,10 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
     tc_vars["product_delivery_time"] = "";
     tc_vars["product_stock"] = "";
     tc_vars["product_category"] = "";
-    tc_vars["product_vendor"] = ""; 
-    
+    tc_vars["product_vendor"] = "";
+
     // Order
-    
+
         tc_vars["order_id"] = "";
         tc_vars["cart_id"] = "";
         tc_vars["order_amount_tf_without_sf"] = "";
@@ -1545,17 +1547,17 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
         tc_vars["order_nb_products"] = "";
         tc_vars["order_zipcode"] = "";
         tc_vars["order_state"] = "";
-      
-    
+
+
     // Products
     tc_vars["order_products"] = new Array();
-    
-    
-    //--> 
+
+
+    //-->
   </SCRIPT>
   <SCRIPT type="text/javascript" src="../js/tc_Castoramafr_1_load.js"></SCRIPT>
   <SCRIPT type="text/javascript" src="../js/tc_Castoramafr_1_exec.js"></SCRIPT>
-  
+
   <NOSCRIPT>
     <IFRAME src="http://redirect39.tagcomander.com/utils/noscript.php?id=1&mode=iframe&template_name=&page_name=&order_id=&order_amount_tf_without_sf=&order_amount_tf_with_sf=&order_amount_ati_without_sf=&order_amount_ati_with_sf=" width="1" height="1"></IFRAME>
       </NOSCRIPT>
